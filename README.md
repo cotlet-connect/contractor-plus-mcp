@@ -105,6 +105,7 @@ Contractor+ has no official MCP server and no official app in ChatGPT or Claude 
 
 - [Contractor+ on Cotlet.dev](https://cotlet.dev/integrations/contractor-plus-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=contractor-plus&utm_content=find)
 - [PyPI package contractor-plus-mcp](https://pypi.org/project/contractor-plus-mcp/)
+- [Odel](https://odel.app/modules/cotlet/contractor-plus)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-contractor-plus-to-ai-agents-guide)
 
 ## Also works with
